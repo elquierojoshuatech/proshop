@@ -1,0 +1,3 @@
+title to "Welcome To ProShop"
+
+remove git repo in frontend. move .gitignore outside frontend. add .env, see if root have git else add one. open another terminal, add repo to github.
